@@ -1,0 +1,16 @@
+
+@font-face {      
+  font-family: 'fluentcoloremoji';      
+  src: url('https://tetunori.github.io/emoji-webfont-test/dist/FluentColorEmoji.woff2') format('woff2'),
+       url('https://tetunori.github.io/emoji-webfont-test/dist/FluentColorEmoji.woff') format('woff');
+  font-display: swap;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
